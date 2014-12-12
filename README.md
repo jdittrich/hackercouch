@@ -14,16 +14,15 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
+Couch in Weimar, Thuringia:
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
+* home of the Bauhaus when it was rather strang esoteric and before it was all functionalism 
+* home of german poets and all sorts of very, very cultural people and things 
+ 
+Hack with me: 
 
-No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
+* Javascript, jQuery, Backbone
+* Cognitive Science, Usability, Interfaces
 
 
 ## Have me crash on your couch
-Your next travels where you need a couch go in here, like:
-
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
-
